@@ -2,8 +2,11 @@
 Automatically exports NinjaTrader Trade Performance report and parses into an XLSX sheet.
 
 Requirements:
+
 -- Autoit https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.zip
+
 -- Python https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe
+
 -- pip3 install pandas, openpyxl
 
 
